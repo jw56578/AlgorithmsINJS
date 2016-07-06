@@ -1,0 +1,19 @@
+{
+  "name": "algorithmsinjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jw56578/AlgorithmsINJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jw56578/AlgorithmsINJS/issues"
+  },
+  "homepage": "https://github.com/jw56578/AlgorithmsINJS#readme"
+}
